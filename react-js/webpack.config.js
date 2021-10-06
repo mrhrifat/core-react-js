@@ -5,7 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const config = {
   entry: [
     'react-hot-loader/patch',
-    './src/index.js'
+    './src/scripts/index.js'
   ],
   output: {
     path: path.resolve(__dirname, 'dist'),
@@ -62,6 +62,7 @@ const config = {
     ]
   },
   devServer: {
+    open: true,
     'static': {
       directory: './dist'
     }
