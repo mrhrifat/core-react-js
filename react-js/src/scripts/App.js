@@ -7,14 +7,13 @@ class App extends React.Component {
   render() {
     const { name } = this.props;
     return (
-      <>
-        <h1>
-          Hello {name}
-        </h1>
-        <button type="button" class="btn btn-primary">
-          Button
-        </button>
-      </>
+      <div class="container text-center">
+        <h2>Assalamu Alaikum {name}</h2>
+        <p>
+          Success is the sum of small efforts repeated day and day out!
+          - Robert Callier
+        </p>
+      </div>
     );
   }
 }

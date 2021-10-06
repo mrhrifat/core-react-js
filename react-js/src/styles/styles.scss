@@ -1,6 +1,15 @@
-$primary-color: white;
-$bg: rgb(0, 0, 0);
-h1 {
-  color: $primary-color;
-  background-color: $bg;
+$head: #ffffff;
+$paragraph:#130f40;
+$bg: #3498db;
+
+div{
+  background: $bg;
+  
+  h2{
+    color:$head;
+  }
+  p{
+    color: $paragraph;
+  }
+
 }
