@@ -1,9 +1,11 @@
 .main{
 
-    .knowledge{
+    .knowledge, .students{
+        padding: 10px 0;
         ul{
             li{
-                display: inline-block;
+                margin: 0 4px;
+                border-radius: 5px;
             }
         }
     }

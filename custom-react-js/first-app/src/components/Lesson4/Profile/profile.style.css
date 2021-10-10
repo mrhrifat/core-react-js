@@ -1,4 +1,9 @@
-.main .knowledge ul li {
-  display: inline-block;
+.main .knowledge, .main .students {
+  padding: 10px 0;
+}
+
+.main .knowledge ul li, .main .students ul li {
+  margin: 0 4px;
+  border-radius: 5px;
 }
 /*# sourceMappingURL=profile.style.css.map */

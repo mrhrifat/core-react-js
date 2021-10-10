@@ -11,19 +11,42 @@ class Profile extends React.Component {
                 </header>
                 <div className="knowledge">
                     <h6>Knowledge</h6>
-                    <ul className="">
-                        <li className="">Quran</li>
-                        <li className="">Hadith</li>
-                        <li className="">Fiqah</li>
-                        <li className="">Tafsir</li>
-                        <li className="">Sirah</li>
+                    <ul className="nav nav-pills">
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">Quran</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">Hadith</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">Fiqah</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">Tafsir</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">Sirah</a>
+                        </li>
                     </ul>
                 </div>
                 <footer className="students">
                     <h6>Students</h6>
-                    <ul className="list-group">
-                        <li className="list-group-item">Ibnul Jawji</li>
-                        <li className="list-group-item">Ibn Kayyim</li>
+                    <ul className="nav nav-pills">
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">
+                                Ibnul Jawhi
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">
+                                Ibn Kayyim
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#" className="nav-link active">
+                                Ibn Kasir
+                            </a>
+                        </li>
                     </ul>
                 </footer>
             </div>
