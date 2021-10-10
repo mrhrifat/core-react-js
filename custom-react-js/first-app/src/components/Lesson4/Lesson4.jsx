@@ -2,6 +2,9 @@ import React from "react";
 
 import Example from "./Example";
 import Profile from "./Profile/Profile";
+import Profile2 from "./Profile2/Profile2";
+import Profile3 from './Profile3/Profile3'
+import Profile4 from "./Profile4/Profile4";
 
 class Lesson4 extends React.Component {
     render() {
@@ -10,6 +13,12 @@ class Lesson4 extends React.Component {
                 <h6>Lesson 4</h6>
                 <Example />
                 <Profile />
+                <div className="py-3"></div>
+                <Profile2 />
+                <div className="py-3"></div>
+                <Profile3 />
+                <div className="py-3"></div>
+                <Profile4 />
 
                 {/* 
                 
