@@ -7,51 +7,53 @@ class Profile extends React.Component {
             <div className="main p-5 border w-50 m-auto">
                 <header className="header text-center">
                     <h3>Ibn Taymiyyah</h3>
-                    <p>Shaikhul Islam, Imam, Muhhaddis</p>
+                    <p>
+                        Shaikhul Islam, Imam, Salfe Salehin
+                        <span className="badge bg-success text-light align-top mx-1">1</span>
+                    </p>
                 </header>
                 <div className="knowledge">
                     <h6>Knowledge</h6>
-                    <ul className="nav nav-pills">
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">Quran</a>
+                    <ul className="list-unstyled">
+                        <li>
+                            <a href="#">Quran</a>
                         </li>
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">Hadith</a>
+                        <li>
+                            <a href="#">Hadith</a>
                         </li>
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">Fiqah</a>
+                        <li>
+                            <a href="#">Fiqah</a>
                         </li>
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">Tafsir</a>
+                        <li>
+                            <a href="#">Tafsir</a>
                         </li>
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">Sirah</a>
+                        <li>
+                            <a href="#">Sirah</a>
                         </li>
                     </ul>
                 </div>
                 <footer className="students">
                     <h6>Students</h6>
-                    <ul className="nav nav-pills">
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">
+                    <ul className="list-unstyled">
+                        <li>
+                            <a href="#">
                                 Ibnul Jawhi
                             </a>
                         </li>
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">
+                        <li>
+                            <a href="#">
                                 Ibn Kayyim
                             </a>
                         </li>
-                        <li className="nav-item">
-                            <a href="#" className="nav-link active">
+                        <li>
+                            <a href="#">
                                 Ibn Kasir
                             </a>
                         </li>
                     </ul>
                 </footer>
-            </div>
+            </div >
         )
     }
 }
-
 export default Profile
