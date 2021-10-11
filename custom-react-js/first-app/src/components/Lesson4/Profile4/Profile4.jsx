@@ -13,7 +13,7 @@ import MyProps from "./MyProps";
 class Profile4 extends React.Component {
     // Not Define (this)
     a = {
-        name: 'Imam Ibn Taymiyyah',
+        name: 'Imam Ibn Taymiyyah (R)',
         designation: 'Imam, Salfe Salehin,Shaiykhul Islam',
         number: '6',
         one: 'Quran',
@@ -22,16 +22,16 @@ class Profile4 extends React.Component {
         four: 'Sirah',
         five: 'Ulmul Hadith',
         // six: 'Sirah',
-        sOne: 'Ibn Kasir',
-        sTwo: 'Ibnul Jawji',
-        sThree: 'Ibn Kayyim',
+        sOne: 'Ibn Kasir (R)',
+        sTwo: 'Ibnul Jawji (R)',
+        sThree: 'Ibn Kayyim (R)',
         // sFour: 'Ibn Abdullah',
     };
 
     render() {
         // Define (headerObject)
         let ibnTaymiyyah = {
-            name: 'Ibn Taymiyyah',
+            name: 'Ibn Taymiyyah (R)',
             designation: 'Shaikhul Islam, Imam, Salfe Salehin',
             number: '4',
             one: 'Quran',
@@ -39,9 +39,9 @@ class Profile4 extends React.Component {
             three: 'Fiqah',
             four: 'Tafsir',
             five: 'Sirah',
-            sOne: 'Ibnul Jawji',
-            sTwo: 'Ibnul Kayyim',
-            sThree: 'Ibnul kasir',
+            sOne: 'Ibnul Jawji (R)',
+            sTwo: 'Ibnul Kayyim (R)',
+            sThree: 'Ibnul kasir (R)',
         }
         return (
             <div>

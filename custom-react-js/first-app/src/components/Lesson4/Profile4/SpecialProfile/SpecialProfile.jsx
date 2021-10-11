@@ -8,7 +8,7 @@ import '../profile4.style.css'
 class SpecialProfile extends React.Component {
     // // Not Define (this)
     // ibnTaymiyyah = {
-    //     name: 'Imam Ibn Taymiyyah',
+    //     name: 'Imam Ibn Taymiyyah (R)',
     //     designation: 'Imam, Salfe Salehin,Shaiykhul Islam',
     //     number: '6',
     //     one: 'Quran',
@@ -17,15 +17,15 @@ class SpecialProfile extends React.Component {
     //     four: 'Sirah',
     //     five: 'Ulmul Hadith',
     //     // six: 'Sirah',
-    //     sOne: 'Ibn Kasir',
-    //     sTwo: 'Ibnul Jawji',
-    //     sThree: 'Ibn Kayyim',
+    //     sOne: 'Ibn Kasir (R)',
+    //     sTwo: 'Ibnul Jawji (R)',
+    //     sThree: 'Ibn Kayyim (R)',
     //     // sFour: 'Ibn Abdullah',
     // };
     render() {
         // Not Define (this)
         let ahmadIbnHamble = {
-            name: 'Ahmad Ibn Hamble',
+            name: 'Ahmad Ibn Hamble (R)',
             designation: 'Imam, Salfe Salehin',
             number: '5',
             one: 'Quran',
@@ -34,9 +34,9 @@ class SpecialProfile extends React.Component {
             four: 'Tafsir',
             five: 'Ulmul Hadith',
             // six: 'Sirah',
-            sOne: 'Ib Abid Dunya',
-            sTwo: 'Bukhari',
-            sThree: 'Muslim',
+            sOne: 'Ibn Abid Dunya (R)',
+            sTwo: 'Imam Bukhari (R)',
+            sThree: 'Imam Muslim (R)',
             // sFour: 'Ibn Abdullah',
         };
         return (
