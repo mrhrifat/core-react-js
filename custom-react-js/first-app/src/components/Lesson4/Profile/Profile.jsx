@@ -6,7 +6,7 @@ class Profile extends React.Component {
         return (
             <div className="main p-5 border w-50 m-auto">
                 <header className="header text-center">
-                    <h3>Ibn Taymiyyah</h3>
+                    <h3>Ibn Taymiyyah (R)</h3>
                     <p>
                         Shaikhul Islam, Imam, Salfe Salehin
                         <span className="badge bg-success text-light align-top mx-1">1</span>
@@ -37,17 +37,17 @@ class Profile extends React.Component {
                     <ul className="list-unstyled">
                         <li>
                             <a href="#">
-                                Ibnul Jawhi
+                                Ibnul Jawji (R)
                             </a>
                         </li>
                         <li>
                             <a href="#">
-                                Ibn Kayyim
+                                Ibn Kayyim (R)
                             </a>
                         </li>
                         <li>
                             <a href="#">
-                                Ibn Kasir
+                                Ibn Kasir (R)
                             </a>
                         </li>
                     </ul>
