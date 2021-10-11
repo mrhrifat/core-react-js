@@ -37,7 +37,7 @@ class Example extends React.Component {
         // )
 
         // Play with Components
-        const name = "Ibn Taymiyyah"
+        const name = "Ibn Taymiyyah (R)"
         const designation = "Shaikhul Islam"
 
         const born = '661H', death = '728H'
