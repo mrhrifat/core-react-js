@@ -6,17 +6,17 @@ const Footer = () => (
         <ul className="list-unstyled">
             <li>
                 <a href="#">
-                    Ibnul Jawhi
+                    Ibnul Jawji (R)
                 </a>
             </li>
             <li>
                 <a href="#">
-                    Ibn Kayyim
+                    Ibn Kayyim (R)
                 </a>
             </li>
             <li>
                 <a href="#">
-                    Ibn Kasir
+                    Ibn Kasir (R)
                 </a>
             </li>
         </ul>
