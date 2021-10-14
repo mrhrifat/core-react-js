@@ -6,7 +6,7 @@ class State1 extends React.Component {
         return (
             <div className="row border">
                 <div className="col py-2 align-self-center">
-                    <h6>Count : {this.count}</h6>
+                    <h6>State 1 Count : {this.count}</h6>
                 </div>
                 <div className="col py-2">
                     <button className="btn btn-success" onClick={() => {
