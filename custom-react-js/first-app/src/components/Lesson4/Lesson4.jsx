@@ -6,6 +6,9 @@ import Profile2 from "./Profile2/Profile2";
 import Profile3 from './Profile3/Profile3'
 import Profile4 from "./Profile4/Profile4";
 
+import Props from "./Props";
+import ChildrenProps from "./ChildrenProps"
+
 class Lesson4 extends React.Component {
     render() {
         return (
@@ -19,6 +22,10 @@ class Lesson4 extends React.Component {
                 <Profile3 />
                 <div className="py-3"></div>
                 <Profile4 />
+                <div className="py-3"></div>
+                <Props />
+                <div className="py-3"></div>
+                <ChildrenProps />
 
                 {/* 
                 
