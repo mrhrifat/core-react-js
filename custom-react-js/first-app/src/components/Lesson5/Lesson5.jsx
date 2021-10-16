@@ -7,6 +7,8 @@ import State3 from "./State3";
 import Counter from "./Counter/Counter";
 import Practice from "./Practice";
 
+import CounterApp from "./CounterApp/CounterApp";
+
 
 class Lesson5 extends React.Component {
 
@@ -16,6 +18,7 @@ class Lesson5 extends React.Component {
         return (
             <div>
 
+                {/* <CounterApp /> */}
 
                 {/* <div className="py-3"></div>
 
