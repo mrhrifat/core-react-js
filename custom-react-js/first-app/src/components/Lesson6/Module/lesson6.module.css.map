@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,KAAK,EAAE,OAAO;EACd,SAAS,EAAE,KAAK;EAChB,WAAW,EAAE,mCAAmC;EAChD,SAAS,EAAE,IAAI;CAKlB;;AATD,AAMI,WANO,CAMP,WAAW,CAAC;EACR,KAAK,EAAE,OAAO;CACjB",
+    "sources": [
+        "lesson6.module.scss"
+    ],
+    "names": [],
+    "file": "lesson6.module.css"
+}
