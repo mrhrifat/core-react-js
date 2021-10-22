@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,WAAW,CAAC;EACR,MAAM,EAAE,MAAM;CAOjB;;AARD,AAGI,WAHO,CAGP,EAAE,CAAC;EACC,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,mCAAmC;EAChD,KAAK,EARJ,OAAO;CASX",
+    "sources": [
+        "split5.style.scss"
+    ],
+    "names": [],
+    "file": "split5.style.css"
+}
