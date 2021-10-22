@@ -25,7 +25,7 @@ class Lesson8 extends Component {
                 <Form3 />
                 <Form4 />
                 <UncontroledForm />
-                <ControledForm />
+                <ControledForm /> git fsck --full
                 <SplitForm />
                 <SplitForm2 />
                 <SplitForm3 />
