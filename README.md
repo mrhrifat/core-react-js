@@ -8,3 +8,6 @@ In this repository, we will learn about the core ReactJS concepts. But before th
 - [More ES6](https://github.com/mrhrifat/development-javascript)
 
 So, let's start learning.
+
+## Motive
+It will help any future Programmer, who don't know ReactJS & want to learn it. Beside, it will be a good experience to learn with real example.
