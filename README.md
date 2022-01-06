@@ -11,3 +11,13 @@ So, let's start learning.
 
 ## Motive
 It will help any future Programmer, who don't know ReactJS & want to learn it. Beside, it will be a good experience to learn with real example.
+
+## Agenda 
+- [React](https://github.com/mrhrifat/core-react-js/tree/master/reactjs/src/components/Lesson1)
+- [Components](https://github.com/mrhrifat/core-react-js/tree/master/reactjs/src/components/Lesson3)
+- [Props](https://github.com/mrhrifat/core-react-js/tree/master/reactjs/src/components/Lesson4)
+- [State](https://github.com/mrhrifat/core-react-js/tree/master/reactjs/src/components/Lesson5)
+- [Styles](https://github.com/mrhrifat/core-react-js/tree/master/reactjs/src/components/Lesson6)
+- [Event Handling](https://github.com/mrhrifat/core-react-js/blob/master/reactjs/src/components/Lesson7/Lesson7.jsx)
+- [Form Handling](https://github.com/mrhrifat/core-react-js/tree/master/reactjs/src/components/Lesson8)
+- [Form Validation](https://github.com/mrhrifat/core-react-js/tree/master/reactjs/src/components/Lesson8/FormValidation)
